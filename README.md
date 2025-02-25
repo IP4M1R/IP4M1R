@@ -21,12 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ip4m1r&show_icons=true&locale=en" alt="ip4m1r" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ip4m1r&" alt="ip4m1r" /></p>
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/ip.4m1r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
