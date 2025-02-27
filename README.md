@@ -57,7 +57,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/IP4M1R/IP4M1R/output/snake.svg" alt="Snake animation" />
-
-###
